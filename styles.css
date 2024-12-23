@@ -16,7 +16,7 @@ body{
 }
 body.page-loaded {
     opacity: 1; /* Menjadi terlihat */
-    transform: translateY(1); /* Kembali ke posisi normal */
+    transform: translateY(0); /* Kembali ke posisi normal */
 }
 
 .add-styles{
